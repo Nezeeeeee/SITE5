@@ -14,3 +14,14 @@
 .title h1{
     padding-top: 5px;
 }
+.title2{
+    width: auto;
+    height: 200px;
+    background-color: rgb(199, 153, 241);
+    color: black;
+    text-align: center;
+}
+.title2 p{
+    font-size: 60px;
+    padding-top: 60px;
+}
