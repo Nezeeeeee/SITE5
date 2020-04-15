@@ -29,10 +29,30 @@
     font-family: 'Cinzel', serif;
     font-size: 60px;
     padding-top: 60px;
+    
 }
 
 .nav{
     width: auto;
     height: 50px;
     background-color: black;
+}
+
+#sidebar{
+    float: left;
+    width: 200px;
+    height: auto;
+    background-color: rgb(199, 153, 241);
+    color: black;
+}
+#sidebar a{
+    font-family: 'Cinzel', serif;
+    font-size: 25px;
+    text-decoration: none;
+}
+#sidebar a:visited{
+    color: black;
+}
+#sidebar a:hover{
+    color: gray;
 }
