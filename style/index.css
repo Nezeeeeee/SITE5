@@ -30,3 +30,9 @@
     font-size: 60px;
     padding-top: 60px;
 }
+
+.nav{
+    width: auto;
+    height: 50px;
+    background-color: black;
+}
