@@ -60,3 +60,9 @@
     background-color: rgb(199, 153, 241);
     color: black;
 }
+footer{
+    background-color: black;
+    color:rgb(199, 153, 241) ;
+    text-align: center;
+    clear: both;
+}
