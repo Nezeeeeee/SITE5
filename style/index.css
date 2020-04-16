@@ -56,3 +56,7 @@
 #sidebar a:hover{
     color: gray;
 }
+#main{
+    background-color: rgb(199, 153, 241);
+    color: black;
+}
