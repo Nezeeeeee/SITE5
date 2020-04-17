@@ -85,6 +85,10 @@ ul.ulsidebar a:hover{
     background-color: black;
     color: rgb(199, 153, 241);
 }
+#sidebar h1{
+    margin-top: 2px;
+    text-decoration: underline overline;
+}
 #sidebar{
     float: left;
     width: 200px;
