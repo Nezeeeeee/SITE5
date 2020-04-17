@@ -67,7 +67,24 @@ ul.ulnavinside a:hover{
     height: 50px;
     background-color: black;
 }
-
+ul.ulsidebar{
+    margin-left: 0px;
+    padding-left: 0px;
+    list-style: none;
+}
+ul.ulsidebar a{
+    display: block;
+    width: 7em;
+    padding: 10px;
+    margin-top: 3px;
+    background-color: rgb(199, 153, 241);
+    text-decoration: none;
+    color: black;
+}
+ul.ulsidebar a:hover{
+    background-color: black;
+    color: rgb(199, 153, 241);
+}
 #sidebar{
     float: left;
     width: 200px;
