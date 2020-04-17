@@ -33,6 +33,36 @@
 }
 
 .nav{
+    text-align: center;
+}
+
+ul.ulnavinside{
+    margin-left: 0px;
+    padding-left: 0px;
+    list-style: none;
+}
+
+.ulnavinside li{
+    display: inline;
+}
+ul.ulnavinside a{
+    display: inline-block;
+    width: 5em;
+    margin-top: 5px;
+    padding: 10px;
+    background-color: rgb(199, 153, 241);
+    border: 1px solid grey;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+ul.ulnavinside a:hover{
+    background-color: black;
+    color: rgb(199, 153, 241);
+}
+    
+
+.nav{
     width: auto;
     height: 50px;
     background-color: black;
