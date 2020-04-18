@@ -44,6 +44,7 @@ ul.ulnavinside{
 
 .ulnavinside li{
     display: inline;
+    width: 24%;
 }
 ul.ulnavinside a{
     display: inline-block;
@@ -59,6 +60,7 @@ ul.ulnavinside a{
 ul.ulnavinside a:hover{
     background-color: black;
     color: rgb(199, 153, 241);
+    font-weight: bolder;
 }
     
 
