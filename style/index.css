@@ -7,10 +7,15 @@
     src: url(https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700;900&display=swap); /* Путь к файлу со шрифтом */
 }
 .title{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
     width: auto;
     height: 50px;
     background-color: black;
     text-align: center;
+    
     
     color: rgb(199, 153, 241);
 }
